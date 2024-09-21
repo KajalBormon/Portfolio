@@ -298,7 +298,8 @@ header .nav-position{
 
 .portfolio-link button{
     padding: 7px 25px;
-    background-color: #324158;
+    background: #324158;
+    border: none;
     border-radius: 7px;
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
@@ -317,6 +318,7 @@ header .nav-position{
     -ms-transform: scale(1.1);
     -o-transform: scale(1.1);
     background-color: var(--button-color);
+    border-color: none;
 }
 .portfolio-link button a{
     text-decoration: none;
